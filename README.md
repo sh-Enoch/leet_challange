@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is dedicated to a collaborative effort among [Your Name] and friends to solve one LeetCode problem per day. The goal is to enhance our problem-solving skills, share knowledge, and strengthen our understanding of algorithms and data structures.
+This repository is dedicated to a collaborative effort among us friends to solve one LeetCode problem per day. The goal is to enhance our problem-solving skills, share knowledge, and strengthen our understanding of algorithms and data structures.
 
 ## Collaboration Guidelines
 
